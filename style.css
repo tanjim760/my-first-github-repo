@@ -1,0 +1,36 @@
+body {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:300;
+    background-image: url("sea_world2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}
+
+#main-heading {
+    margin: 50px;
+    text-align: center;
+}
+
+#sea-wonders {
+    margin: 50px;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    margin: 15px 15px;
+    padding: 20px;
+    display: inline;
+    height: 500px;
+    width: 500px;
+    box-shadow: 10px 10px 10px black;
+}
+
+#img-div {
+    text-align: center;
+    margin-top: 70px;
+    padding: 20px;
+}
